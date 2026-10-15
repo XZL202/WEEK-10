@@ -1,0 +1,602 @@
+[
+  {
+    "seed": 0,
+    "reward": 6.04644560308565,
+    "length": 7,
+    "crashed": true
+  },
+  {
+    "seed": 1,
+    "reward": 24.687957778907915,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 2,
+    "reward": 23.06932953666323,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 3,
+    "reward": 23.553149760269033,
+    "length": 25,
+    "crashed": true
+  },
+  {
+    "seed": 4,
+    "reward": 24.55526635201654,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 5,
+    "reward": 25.21883334771374,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 6,
+    "reward": 2.6209333235753,
+    "length": 4,
+    "crashed": true
+  },
+  {
+    "seed": 7,
+    "reward": 15.309959941088207,
+    "length": 17,
+    "crashed": true
+  },
+  {
+    "seed": 8,
+    "reward": 27.869611677399504,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 9,
+    "reward": 11.934241637812505,
+    "length": 15,
+    "crashed": true
+  },
+  {
+    "seed": 10,
+    "reward": 10.711545672769818,
+    "length": 12,
+    "crashed": true
+  },
+  {
+    "seed": 11,
+    "reward": 23.551592100672167,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 12,
+    "reward": 27.218664513134307,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 13,
+    "reward": 12.887989876499132,
+    "length": 15,
+    "crashed": true
+  },
+  {
+    "seed": 14,
+    "reward": 28.416957845549558,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 15,
+    "reward": 21.42095371634697,
+    "length": 25,
+    "crashed": true
+  },
+  {
+    "seed": 16,
+    "reward": 26.107549647808007,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 17,
+    "reward": 28.238329532984885,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 18,
+    "reward": 27.35646318284105,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 19,
+    "reward": 24.241972565626078,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 20,
+    "reward": 16.26666665436748,
+    "length": 18,
+    "crashed": true
+  },
+  {
+    "seed": 21,
+    "reward": 22.578909078762816,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 22,
+    "reward": 7.599319232076274,
+    "length": 9,
+    "crashed": true
+  },
+  {
+    "seed": 23,
+    "reward": 23.52928082467214,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 24,
+    "reward": 24.71024642471121,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 25,
+    "reward": 12.510642790963638,
+    "length": 14,
+    "crashed": true
+  },
+  {
+    "seed": 26,
+    "reward": 24.79612635453601,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 27,
+    "reward": 24.956165364906997,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 28,
+    "reward": 23.354524975576613,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 29,
+    "reward": 5.2432424075624535,
+    "length": 7,
+    "crashed": true
+  },
+  {
+    "seed": 30,
+    "reward": 14.084930608833925,
+    "length": 18,
+    "crashed": true
+  },
+  {
+    "seed": 31,
+    "reward": 28.727526106869885,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 32,
+    "reward": 23.48688783570301,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 33,
+    "reward": 27.60317211752004,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 34,
+    "reward": 23.32876378359975,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 35,
+    "reward": 26.218265213533904,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 36,
+    "reward": 23.063376714004967,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 37,
+    "reward": 11.908473811859261,
+    "length": 16,
+    "crashed": true
+  },
+  {
+    "seed": 38,
+    "reward": 15.90649181507852,
+    "length": 18,
+    "crashed": true
+  },
+  {
+    "seed": 39,
+    "reward": 23.441819922126005,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 40,
+    "reward": 24.019598884869474,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 41,
+    "reward": 25.397526855732504,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 42,
+    "reward": 23.72748131857009,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 43,
+    "reward": 24.41728016191488,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 44,
+    "reward": 3.0238072145862365,
+    "length": 4,
+    "crashed": true
+  },
+  {
+    "seed": 45,
+    "reward": 24.002662868404926,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 46,
+    "reward": 9.89041782877658,
+    "length": 11,
+    "crashed": true
+  },
+  {
+    "seed": 47,
+    "reward": 25.485442982976327,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 48,
+    "reward": 25.842598017424535,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 49,
+    "reward": 22.75159854683307,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 50,
+    "reward": 7.951116047129156,
+    "length": 10,
+    "crashed": true
+  },
+  {
+    "seed": 51,
+    "reward": 26.128944729700834,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 52,
+    "reward": 27.26625699315139,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 53,
+    "reward": 14.023021652358839,
+    "length": 15,
+    "crashed": true
+  },
+  {
+    "seed": 54,
+    "reward": 10.800758331949776,
+    "length": 13,
+    "crashed": true
+  },
+  {
+    "seed": 55,
+    "reward": 11.333333334893728,
+    "length": 14,
+    "crashed": true
+  },
+  {
+    "seed": 56,
+    "reward": 27.598568958124098,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 57,
+    "reward": 9.710529454587649,
+    "length": 11,
+    "crashed": true
+  },
+  {
+    "seed": 58,
+    "reward": 25.266677636403855,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 59,
+    "reward": 11.000376676419595,
+    "length": 12,
+    "crashed": true
+  },
+  {
+    "seed": 60,
+    "reward": 23.88684773854425,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 61,
+    "reward": 22.46404242464938,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 62,
+    "reward": 23.596669141621817,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 63,
+    "reward": 27.510770393422685,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 64,
+    "reward": 12.978363368804686,
+    "length": 16,
+    "crashed": true
+  },
+  {
+    "seed": 65,
+    "reward": 23.418264742968585,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 66,
+    "reward": 4.4,
+    "length": 6,
+    "crashed": true
+  },
+  {
+    "seed": 67,
+    "reward": 6.04644560308565,
+    "length": 7,
+    "crashed": true
+  },
+  {
+    "seed": 68,
+    "reward": 4.376488878301959,
+    "length": 6,
+    "crashed": true
+  },
+  {
+    "seed": 69,
+    "reward": 25.884870731245023,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 70,
+    "reward": 23.330870041084964,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 71,
+    "reward": 14.53332725224827,
+    "length": 16,
+    "crashed": true
+  },
+  {
+    "seed": 72,
+    "reward": 8.355591467797804,
+    "length": 10,
+    "crashed": true
+  },
+  {
+    "seed": 73,
+    "reward": 25.687422491699355,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 74,
+    "reward": 23.62123776301172,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 75,
+    "reward": 15.220512954410417,
+    "length": 18,
+    "crashed": true
+  },
+  {
+    "seed": 76,
+    "reward": 20.37248249900595,
+    "length": 22,
+    "crashed": true
+  },
+  {
+    "seed": 77,
+    "reward": 26.17312110124422,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 78,
+    "reward": 21.795405631352796,
+    "length": 25,
+    "crashed": true
+  },
+  {
+    "seed": 79,
+    "reward": 25.707673255749263,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 80,
+    "reward": 12.046445497630883,
+    "length": 13,
+    "crashed": true
+  },
+  {
+    "seed": 81,
+    "reward": 1.7320452583158457,
+    "length": 3,
+    "crashed": true
+  },
+  {
+    "seed": 82,
+    "reward": 23.839963013354637,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 83,
+    "reward": 20.329604139367877,
+    "length": 25,
+    "crashed": true
+  },
+  {
+    "seed": 84,
+    "reward": 28.69006111385612,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 85,
+    "reward": 5.023761837146955,
+    "length": 6,
+    "crashed": true
+  },
+  {
+    "seed": 86,
+    "reward": 6.06631601454601,
+    "length": 7,
+    "crashed": true
+  },
+  {
+    "seed": 87,
+    "reward": 7.933559839982886,
+    "length": 9,
+    "crashed": true
+  },
+  {
+    "seed": 88,
+    "reward": 22.53262224098218,
+    "length": 24,
+    "crashed": true
+  },
+  {
+    "seed": 89,
+    "reward": 23.200350666007783,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 90,
+    "reward": 26.440229357089397,
+    "length": 29,
+    "crashed": true
+  },
+  {
+    "seed": 91,
+    "reward": 23.84197255176981,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 92,
+    "reward": 20.017834091403408,
+    "length": 25,
+    "crashed": true
+  },
+  {
+    "seed": 93,
+    "reward": 24.262278818904786,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 94,
+    "reward": 23.576166559055125,
+    "length": 28,
+    "crashed": true
+  },
+  {
+    "seed": 95,
+    "reward": 28.218910104623156,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 96,
+    "reward": 25.086887835703,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 97,
+    "reward": 23.13082782166025,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 98,
+    "reward": 25.641185741824714,
+    "length": 30,
+    "crashed": false
+  },
+  {
+    "seed": 99,
+    "reward": 12.644093870004937,
+    "length": 14,
+    "crashed": true
+  }
+]
